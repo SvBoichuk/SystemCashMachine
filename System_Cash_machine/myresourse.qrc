@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>myIcon.ico</file>
+        <file>enter-icon.ico</file>
+    </qresource>
+</RCC>
